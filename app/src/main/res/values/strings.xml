@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">pemesanan_makanan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="food_images">
+        <item>@drawable/teh</item>
+        <item>@drawable/gehu</item>
+        <item>@drawable/mendoan</item>
+        <item>@drawable/cireng</item>
+        <item>@drawable/pisang</item>
+        <item>@drawable/sorabiasin</item>
+        <item>@drawable/sorabimanis</item>
+        <item>@drawable/ubi</item>
+        <item>@drawable/balabala</item>
+        <item>@drawable/cengek</item>
+    </string-array>
+    <string-array name="food_names">
+        <item>Teh</item>
+        <item>Gehu</item>
+        <item>Mendoan</item>
+        <item>Cireng</item>
+        <item>Pisang</item>
+        <item>Sorabi Asin</item>
+        <item>Sorabi Manis</item>
+        <item>Ubi Goreng</item>
+        <item>Bala-Bala</item>
+        <item>Cengek</item>
+    </string-array>
+
+    <string-array name="food_descriptions">
+        <item>teh asli dari pucuknya.</item>
+        <item>Tahu isi dengan sayuran dan rasa pedas.</item>
+        <item>tempe goreng yang diselimuti adonan gurihhh.</item>
+        <item>Tepung aci yang digoreng, kenyal dan gurih.</item>
+        <item>pisang goreng manis,untuk kamu yang maniss.</item>
+        <item>Dibuat dari tepung beras yang dibakar menggunakan metode tradisional.</item>
+        <item>tepung beras yang dibakar menggunakan metode tradisional dan rasanya maniss.</item>
+        <item>ubi goreng yang gurih dan nikmat.</item>
+        <item>Bala-bala yang digoreng dengan minyak goreng.</item>
+        <item>cengek sebagai pendamping makanan gorengan agar lebih nikmaat.</item>
+    </string-array>
+
+</resources>
