@@ -1,5 +1,5 @@
 # UTS PENGEMBANGAN APLIKASI MOBILE
-#IRSYAD ADFIANSHA HIDAYAT (1237050042)
+# IRSYAD ADFIANSHA HIDAYAT (1237050042)
 
 ## Aplikasi Pemesanan Makanan
 Aplikasi ini adalah contoh sederhana dari aplikasi pemesanan makanan untuk platform Android yang dibangun menggunakan Kotlin dan android views(XML LAYOUTS) sebagai arsitektur UI. Aplikasi ini mendemonstrasikan alur dasar mulai dari register, login, pemilihan makanan, detail pesanan, pengisian alamat, hingga halaman konfirmasi selesai..
